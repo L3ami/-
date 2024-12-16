@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANALICKODE", "ANALICKODE\ANALICKODE.csproj", "{9D5DC3B1-6771-4C0A-84BF-48C6E7A9D106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5DC3B1-6771-4C0A-84BF-48C6E7A9D106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5DC3B1-6771-4C0A-84BF-48C6E7A9D106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5DC3B1-6771-4C0A-84BF-48C6E7A9D106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5DC3B1-6771-4C0A-84BF-48C6E7A9D106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93D92C5-5629-4D8A-8F4A-56E877AEA063}
+	EndGlobalSection
+EndGlobal
